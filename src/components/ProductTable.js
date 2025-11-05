@@ -270,7 +270,7 @@ export const ProductTable = ({ data, uniqueValues }) => {
             </table>
           </Box>
         ) : (
-          <Typography sx={{ textAlign: 'center', py: 4, color: '#666' }}>📭 Nenhum dado encontrado</Typography>
+          <Typography sx={{ textAlign: 'center', py: 4, color: '#666' }}>⚠️ Conteúdo em Desevolvimento</Typography>
         )}
       </Box>
     </Box>
